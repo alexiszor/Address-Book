@@ -1,0 +1,1 @@
+This is an address book where you can save contacts, together with some details of them (e.g. Phone nummber, email, birthday). You can also add an image and a song to each one of them. You can edit, delete and search a certain contact at any time.
