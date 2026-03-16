@@ -1,0 +1,10 @@
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\bin\Debug\Address Book.exe.config
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\bin\Debug\Address Book.exe
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\bin\Debug\Address Book.pdb
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address Book.csprojAssemblyReference.cache
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address_Book.Form1.resources
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address Book.csproj.GenerateResource.cache
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address Book.exe
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address Book.pdb
+C:\Users\ALEXIS\source\repos\Address Book\Address Book\obj\Debug\Address Book.csproj.CoreCompileInputs.cache
